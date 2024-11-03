@@ -1,7 +1,7 @@
 # Project Overview for AVISHKAAR Season 2
 
 ## Project Status
-We have recently started working on our project, and we are in the process of finalizing our files. All project materials will be submitted on the day of the hackathon.
+We have recently started working on our project, and we are in the process of finalizing our files. <br>All project materials will be submitted on the day of the hackathon.
 - Project Workflow
   ![Copy of Validation](https://github.com/user-attachments/assets/0d8c100c-4e7e-48dc-b660-e3fe88367b3c)
 
